@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoWeather</string>
+
+    <string name="place_not_found">Sorry, no weather data found.</string>
+</resources>
